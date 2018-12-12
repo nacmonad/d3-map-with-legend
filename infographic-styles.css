@@ -1,0 +1,24 @@
+.infographic {
+
+}
+.hidden {
+  display:none
+}
+.legend {
+  position:absolute;
+  width:280px;
+  border:1.5px rgba(30, 81, 164,0.8) solid;
+  top:300px;
+  z-index:11;
+}
+.legend-header {
+  display:flex;
+  flex-direction:row;
+  align-items:center;
+  justify-content:flex-start;
+  padding:1rem;
+}
+.legend-content {
+  border-top:1.5px rgba(30, 81, 164,0.8) solid;
+
+}
