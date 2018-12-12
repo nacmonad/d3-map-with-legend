@@ -1,0 +1,41 @@
+[{
+  "name":"Highland Valley (Canada)",
+  "notes": ["Copper, 0.5% NPI", "Conventional open pit mine perated by Teck"],
+  "location": {
+    "latitude":,
+    "longitude":
+  }
+},
+{
+  "name":"El Pilar (Mexico)",
+  "notes": ["Copper, 1.0% NPI", "100% owned by Souther Copper", "Fully permitted SX-EW development asset"],
+  "location": {
+    "latitude":,
+    "longitude":
+  }
+},
+{
+  "name":"Antamina (Peru)",
+  "notes": ["Copper / Zinc, NPI", "Top 10 mine by Cu and Zn global production", "JV between Glencore, BHP, Teck and Mitsubishi"],
+  "location": {
+    "latitude":,
+    "longitude":
+  }
+},
+{
+  "name":"Newfoundland Development Assets (Canadea)",
+  "notes": ["Tulks South: Polymetallic, 2.0% NSR", "South Tally Pont: Polymetalli, 2.0% NSR", "Long Lake: Polymetallic, 2.0% NSR", "Point Leamington: Polymetallic, 1.5% NSR"],
+  "location": {
+    "latitude":,
+    "longitude":
+  }
+},
+{
+  "name":"Horne 5 (Canada)",
+  "notes": ["Polymetalic, 2.0% NSR", "Long-life undergrounddevelopment project located in Rouyn-Noranda Mining Camp, wned by Falco Resources"],
+  "location": {
+    "latitude":,
+    "longitude":
+  }
+},
+]

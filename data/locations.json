@@ -1,0 +1,46 @@
+[{
+  "name":"Highland Valley (Canada)",
+  "type":"Producing Asset",
+  "notes": ["Copper, 0.5% NPI", "Conventional open pit mine perated by Teck"],
+  "location": {
+    "latitude":50.4861622,
+    "longitude":-121.1127451
+  }
+},
+{
+  "name":"El Pilar (Mexico)",
+  "type":"Development Asset",
+  "notes": ["Copper, 1.0% NPI", "100% owned by Souther Copper", "Fully permitted SX-EW development asset"],
+  "location": {
+    "latitude":29.2976077,
+    "longitude":-110.8912316
+  }
+},
+{
+  "name":"Antamina (Peru)",
+  "type":"Producing Asset",
+  "notes": ["Copper / Zinc, NPI", "Top 10 mine by Cu and Zn global production", "JV between Glencore, BHP, Teck and Mitsubishi"],
+  "location": {
+    "latitude":-7.9828,
+    "longitude":-77.0748
+  }
+},
+{
+  "name":"Newfoundland Development Assets (Canada)",
+  "type":"Development Asset",
+  "notes": ["Tulks South: Polymetallic, 2.0% NSR", "South Tally Pont: Polymetalli, 2.0% NSR", "Long Lake: Polymetallic, 2.0% NSR", "Point Leamington: Polymetallic, 1.5% NSR"],
+  "location": {
+    "latitude": 50.0312081,
+    "longitude": -57.7805819
+  }
+},
+{
+  "name":"Horne 5 (Canada)",
+  "type":"Development Asset",
+  "notes": ["Polymetalic, 2.0% NSR", "Long-life underground development project located in Rouyn-Noranda Mining Camp, owned by Falco Resources"],
+  "location": {
+    "latitude":48.2554038,
+    "longitude":-79.0205078
+  }
+}
+]
